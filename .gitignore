@@ -1,0 +1,22 @@
+# Operating System & IDE Files
+.DS_Store
+.idea/
+.vscode/
+
+# Build artifacts & temp files
+/build/
+/dist/
+*.log
+*.tmp
+*.bak
+/temp/
+
+# Dependency directories
+/node_modules/
+/vendor/
+
+# User-specific files
+*.env
+.env.local
+.env.production
+.env.development
